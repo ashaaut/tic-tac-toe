@@ -13,13 +13,3 @@ td {
 td:hover {
   background-color: #A31BDE;
 }
-#restart{
-  font-size: 30px;
-  border-radius: 20px;
-  background-color: #3FBD75;
-}
-#start{
-  font-size: 30px;
-  border-radius: 20px;
-  background-color: #3FBD75;
-}
