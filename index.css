@@ -1,0 +1,25 @@
+#tic-tac-toe{
+  border-collapse: collapse;
+  height: 450px;
+  width: 450px;
+  background-color: #BEB8C1
+}
+td {
+  height: 150px;
+  width: 150px;
+  border: 1px solid black;
+  text-align: center;
+}
+td:hover {
+  background-color: #A31BDE;
+}
+#restart{
+  font-size: 30px;
+  border-radius: 20px;
+  background-color: #3FBD75;
+}
+#start{
+  font-size: 30px;
+  border-radius: 20px;
+  background-color: #3FBD75;
+}
